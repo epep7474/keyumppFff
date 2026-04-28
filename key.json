@@ -1,0 +1,14 @@
+[
+  {
+    "username": "contoh_user1",
+    "password": "password123",
+    "tiktok": "username_tiktok_1",
+    "expires": "2099-12-31"
+  },
+  {
+    "username": "contoh_user2",
+    "password": "abc456xyz",
+    "tiktok": "username_tiktok_2",
+    "expires": "2099-12-31"
+  }
+]
